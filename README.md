@@ -16,7 +16,7 @@ You can read more about SSL Pinning here: https://yinsolutions.org/blogs/how-to-
 
 ## Info
 
-- Current version which was bypassed: 398.0.0 (unreleased, costs money)
+- Current version which was bypassed: 398.0.0 (unreleased, for private users only)
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
