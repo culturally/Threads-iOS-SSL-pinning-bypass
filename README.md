@@ -1,7 +1,7 @@
 # Threads
 
 Threads iOS with SSL pinning bypassed / Threads with certificate pinning bypassed.
-Get your private api endpoints now!!
+Get your private api endpoints now!
 
 - DO NOT NEED JAILBREAK 
 - DO NOT NEED FRIDA
